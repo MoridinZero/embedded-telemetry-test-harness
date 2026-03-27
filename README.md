@@ -30,3 +30,4 @@ BME280 → ESP32 → Serial → Python Logger → CSV → Google Sheets Chart
 3. Run Python logger:
    ```bash
    python3 log_sensor_data.py
+4.	Open CSV in Google Sheets to generate charts
